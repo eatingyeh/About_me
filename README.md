@@ -6,8 +6,10 @@ LinkedIn: https://www.linkedin.com/in/yi-ting-yeh-64093a11b/
 
 # Portfolio
 Python
-- Objects Classifiers built with CNN
+- Objects Detection Classifiers built with CNN
 https://github.com/eatingyeh/Objects_Classifiers
+- Netflix Stock Price Prediction
+https://github.com/eatingyeh/Netflix-Stock-Price-Prediction
 
 
 WEKA
