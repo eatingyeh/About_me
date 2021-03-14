@@ -8,6 +8,8 @@ LinkedIn: https://www.linkedin.com/in/yi-ting-yeh-64093a11b/
 Python
 - Objects Detection Classifiers built with CNN
 https://github.com/eatingyeh/Objects_Classifiers
+- Breast Cancer Prediction
+https://github.com/eatingyeh/Breast-Cancer-Prediction/blob/main/README.md
 
 
 WEKA
