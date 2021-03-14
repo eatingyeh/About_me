@@ -10,6 +10,8 @@ Python
 https://github.com/eatingyeh/Objects_Classifiers
 - Breast Cancer Prediction
 https://github.com/eatingyeh/Breast-Cancer-Prediction/blob/main/README.md
+- Netflix Stock Price Prediction
+https://github.com/eatingyeh/Netflix-Stock-Price-Prediction
 
 
 WEKA
